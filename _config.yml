@@ -1,2 +1,2 @@
 	name: Viorica, Brilliant Violinist
-	markdown: kramdown
+ permalink: /blog/:year/:month/:day/:title
